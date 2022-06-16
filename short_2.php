@@ -26,8 +26,9 @@ function sh2_31w_enqueue()
 add_action('wp_enqueue_scripts', "sh2_31w_enqueue");
 
 
-///////////////////////////////HTML
+
 function genere_adresse(){
+    ///////////////////////////////HTML
     $contenu = '<code class="code__adresse">';
     $contenu .= "3800 Rue Sherbrooke E, Montréal, QC H1X 2A2";
     $contenu .= '</code>';
