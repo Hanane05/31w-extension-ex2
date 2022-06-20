@@ -3,7 +3,7 @@
  * Plugin Name: short_2
  * Author: Hanane Boukhalfa
  * Description: structure d'extension utilisant plusieurs dossiers et permettant d'afficher une adresse
- * Plugin URI: https://github.com/Hanane05/31w-hanane-boukhalfa-extension1
+ * Plugin URI: https://github.com/Hanane05/31w-extension-ex2
  */
 
 function sh2_31w_enqueue()
