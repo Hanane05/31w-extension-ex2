@@ -6,7 +6,7 @@
 }
 
 .boite__modale {
-  background-color: red;
+  background-color: rgb(39, 1, 51);
   position: fixed;
   width: 50vw;
   height: 50vh;
@@ -28,4 +28,11 @@
 .boite__modale__ouvrir {
   transform: scale(1);
   opacity: 1;
+}
+
+.elmBoite__contenu {
+  margin: 20% auto;
+  color: white;
+  font-size: 50px;
+  text-align: center;
 }/*# sourceMappingURL=style.css.map */

@@ -28,7 +28,6 @@
     
     elmOK.addEventListener('mousedown',  function(){
         elmBoite__modale.classList.add('boite__modale__ouvrir');
-        console.log(elmBoite__modale.classList);
     })
 
 
