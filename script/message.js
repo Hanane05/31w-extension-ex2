@@ -15,7 +15,8 @@
         elmBody = document.querySelector('body')
 
         elmBody.appendChild(elmBoite__modale);
-        elmBoite__contenu.innerHTML = "Ceci est un test"
+        let text = document.querySelector(".code__adresse").innerText
+        elmBoite__contenu.innerHTML = text;
     }
 
     creer_boite_modale();
