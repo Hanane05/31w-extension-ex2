@@ -1,6 +1,6 @@
 # Exercice - 2
 ## Deuxième extension Wordpress
-### Contient 12 commits
+### Contient 13 commits
 
 
 > L'extension conient 2 dossiers:
