@@ -15,6 +15,7 @@
   transform: scale(0);
   opacity: 0;
   transition: transform 1s, opacity 1s;
+  box-shadow: 1px 1px 11px 2px rgb(153, 96, 168);
 }
 
 .boite__X {
