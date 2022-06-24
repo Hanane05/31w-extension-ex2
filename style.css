@@ -1,3 +1,8 @@
+/**
+ * Plugin Name: short_2
+ * Author: Hanane Boukhalfa
+ * Plugin URI: https://github.com/Hanane05/31w-extension-exer2
+ */
 .code__adresse {
   margin: 10px;
   padding: 10px;
@@ -40,4 +45,5 @@
   color: white;
   font-size: 50px;
   text-align: center;
-}/*# sourceMappingURL=style.css.map */
+}
+/*# sourceMappingURL=style.css.map */
